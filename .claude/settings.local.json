@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install firebase)",
+      "Bash(npm run build)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(git init)",
+      "Bash(git branch -M main)",
+      "Bash(git add README.md api/ index.html package.json package-lock.json public/ src/ vercel.json vite.config.js .gitignore .claude/)"
+    ]
+  }
+}
